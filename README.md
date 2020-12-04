@@ -3,5 +3,5 @@
 ## Legend
 
 - TUK = Tempat Uji Kompetensi
-- Assesi = Murid
-- Assesor = Guru/Pemberi Materi Ujian
+- Asesi = Peserta Uji Kompetensi
+- Asesor = Pemateri/Penilai Uji Kompetensi
