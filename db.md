@@ -34,8 +34,7 @@
 
 #### Users
 - id (bigInt) (autoIncerment)
-- user_name (string)
-- user_password (string)
+- password (string)
 - email (string)
 - type (string) (admin/tuk/assesor/asessi)
 - status (tinyInt) (active/inactive/suspend)
