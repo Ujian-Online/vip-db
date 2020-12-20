@@ -42,6 +42,7 @@
 - created_at (datetime)
 - updated_at (datetime)
 - is_active
+- media_url_sign_user *untuk ttd user atau admin yang approve
 
 #### UserAsesi
 - id (bigInt) (autoIncerment)
@@ -56,9 +57,7 @@
 - has_job (boolean) (bekerja = true/tidak = false)
 - job_title (string)
 - job_address (text)
-- media_url_sign_admin (string) (canvas) *untuk ttd admin yg approve
 - user_id_admin
-- media_url_sign_user *untuk ttd user
 - note_admin (text)
 - is_verified (boolean)
 - verification_note
