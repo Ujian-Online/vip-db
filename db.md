@@ -63,7 +63,7 @@
 - verification_note
 
 #### UserAsesiCustomData
-- user_id_asesi
+- user_asesi_id
 - title
 - input_type
 - value
@@ -77,7 +77,7 @@
 
 #### AsesiUnitKompetensiDokumen *ini untuk apl02
 - id
-- user_id_asesi
+- user_asesi_id
 - unit_kompetensi_id
 - order (urutan diisi manual)
 - sertifikasi_id (string)
@@ -87,7 +87,7 @@
 
 #### AsesiSertifikasiUnitKompetensiElement
 - id (bigInt) (autoIncerment) 
-- user_id_asesi
+- user_asesi_id
 - unit_kompetensi_id (bigInt)
 - desc (text)
 - upload_instruction (string)
