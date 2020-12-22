@@ -188,7 +188,7 @@
 - id
 - tanggal
 - title
-- paket_A (10 soal)
+- description // contoh: paket_A (10 soal)
 
 #### UjianAsesiAsesor
 - id_asesi_asesor
