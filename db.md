@@ -191,18 +191,18 @@
 - description // contoh: paket_A (10 soal)
 
 #### UjianAsesiAsesor
-- id_asesi_asesor
+- id
 - asesi_id
+- asesor_id
 - ujian_jadwal_id
 - sertifikasi_id
-- asesor_id
 - order_id
 - status (menunggu, penilaian, selesai)
 - is_kompeten (t/f)
 - final_score_percentage
 
 #### UjianAsesiJawaban (untuk menyimpan soal yg generate untuk user)
-- id_asesi_asesor
+- id
 - soal_id
 - question (text)
 - question_type (essay, multiple_option)
@@ -215,14 +215,14 @@
 - final_score
 
 #### UjianAsesiJawabanPilihan  (untuk menyimpan jawabannya)
-- id_asesi_asesor_Jawaban
+- id
 - option
 - label (A, B, C, D)
 
 ## ORDER
 
 #### Order
-- user_id_asesi
+- asesi_id
 - sertifikasi_id
 - tuk_id
 - tipe_sertifikasi (baru, perpanjang)
