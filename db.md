@@ -50,6 +50,7 @@
 - name (string)
 - address (text)
 - gender (boolean) (true = pria)
+- no_telp (string) // nomor telpon asesi
 - birth_place (string)
 - birth_date (date)
 - no_ktp (string)
