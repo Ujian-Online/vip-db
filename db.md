@@ -41,7 +41,6 @@
 - media_url (string) (url)
 - created_at (datetime)
 - updated_at (datetime)
-- is_active
 - media_url_sign_user *untuk ttd user atau admin yang approve
 
 #### UserAsesi
