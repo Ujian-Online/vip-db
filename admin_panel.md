@@ -22,14 +22,14 @@
 ## ADMINISTRATOR / LSP
 
 #### User
-- Bisa rubah status user
-- Bisa menambah data asesor
-- Bisa assign user ke TUK
-- Bisa buat data Asesi
+- [x] Bisa rubah status user
+- [x] Bisa menambah data asesor
+- [x] Bisa assign user ke TUK
+- [x] Bisa buat data Asesi
 
 #### TUK
-- Bisa input data TUK
-- Bisa assign sertifikasi dan harga ke TUK
+- [x] Bisa input data TUK
+- [x] Bisa assign sertifikasi dan harga ke TUK
 
 #### Order
 - Bisa mantau order dan statusnya
@@ -38,7 +38,7 @@
 - Bisa buat jadwal ujian dan assign Asesi dan Asesor ke dalamnya
 
 #### Sertifikasi
-- Bisa bikin data sertifikasi
+- [x] Bisa bikin data sertifikasi
 - Bisa bikin data unit kompetensi
 - Bisa bikin data element
 
