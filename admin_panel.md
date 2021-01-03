@@ -35,15 +35,15 @@
 - [ ] Bisa mantau order dan statusnya
 
 #### Jadwal Ujian
-- [ ] Bisa buat jadwal ujian dan assign Asesi dan Asesor ke dalamnya
+- [x] Bisa buat jadwal ujian dan assign Asesi dan Asesor ke dalamnya
 
 #### Sertifikasi
 - [x] Bisa bikin data sertifikasi
-- [ ] Bisa bikin data unit kompetensi
-- [ ] Bisa bikin data element
+- [x] Bisa bikin data unit kompetensi
+- [x] Bisa bikin data element
 
 #### Ujian User
-- [ ] Bisa menampilkan progress ujian user dan hasil penilaianya
+- [x] Bisa menampilkan progress ujian user dan hasil penilaianya
 
 ## ASESOR
 
