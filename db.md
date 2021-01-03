@@ -205,6 +205,7 @@
 #### UjianAsesiJawaban (untuk menyimpan soal yg generate untuk user)
 - id
 - soal_id
+- asesi_id
 - question (text)
 - question_type (essay, multiple_option)
 - answer_essay
