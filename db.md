@@ -218,6 +218,8 @@
 
 #### UjianAsesiJawabanPilihan  (untuk menyimpan jawabannya)
 - id
+- soal_id
+- asesi_id
 - option
 - label (A, B, C, D)
 
