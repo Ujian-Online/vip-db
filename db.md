@@ -140,6 +140,7 @@
 - tuk_id
 - tuk_price_baru
 - tuk_price_perpanjang
+- tuk_price_training
 
 #### SertifikasiUnitKompentensi
 - id (bigInt) (autoIncerment) 
@@ -233,6 +234,7 @@
 - kode_sertifikat
 - original_price
 - tuk_price
+- tuk_price_training
 - status (waiting_payment, pending_verification, payment_rejected, payment_verified, canceled, completed) complete kalau udah di assign asesor
 - comment_rejected
 - comment_verification
