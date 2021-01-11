@@ -32,7 +32,7 @@
 - [x] Bisa assign sertifikasi dan harga ke TUK
 
 #### Order
-- [ ] Bisa mantau order dan statusnya
+- [x] Bisa mantau order dan statusnya
 
 #### Jadwal Ujian
 - [x] Bisa buat jadwal ujian dan assign Asesi dan Asesor ke dalamnya
