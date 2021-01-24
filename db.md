@@ -77,7 +77,7 @@
 - input_type (string) (text, dropdown, upload_image, upload_pdf)
 - value_dropdown (simpan value dari dropdown dalam bentuk string dengan coma)
 
-#### AsesiUnitKompetensiDokumen *ini untuk apl02 (Snapshot dari Table Sertifikasi Unit Kompetensi)
+#### AsesiUnitKompetensiDokumen *ini untuk apl02 (Ini snapshot Unit Kompetensi)
 - id (bigInt) (autoIncerment) 
 - asesi_id
 - unit_kompetensi_id
@@ -87,7 +87,7 @@
 - title (string)
 - sub_title (string)
 
-#### AsesiSertifikasiUnitKompetensiElement *Asesi Upload (Snapshot dari Table Sertifikasi Unit Kompetensi Element)
+#### AsesiSertifikasiUnitKompetensiElement *Upload Dokumen (Ini Snapshot UK Element)
 - id (bigInt) (autoIncerment) 
 - asesi_id
 - unit_kompetensi_id (bigInt)
