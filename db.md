@@ -232,6 +232,12 @@
 - sertifikasi_id
 - tuk_id
 - tipe_sertifikasi (baru, perpanjang)
+- sertifikat_number_old
+- sertifikat_number_new
+- sertifikat_date_old
+- sertifikat_date_new
+- sertifikat_media_url_old
+- sertifikat_media_url_new
 - kode_sertifikat
 - original_price
 - tuk_price
